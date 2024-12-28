@@ -1,7 +1,5 @@
 # Little Lemon Restaurant
 
-![Little Lemon Logo](link-to-your-logo-image) <!-- Add your logo image link here -->
-
 ## Description
 
 Little Lemon Restaurant is a simple React application designed to provide users with a seamless experience for exploring our menu and making reservations. The application features a basic landing page that highlights our restaurant's offerings and includes a user-friendly booking form for customers to secure their dining experience.
